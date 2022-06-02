@@ -2,9 +2,12 @@
   color: green;
   font-size: 24px;
   font-family: sans-serif;
+  line-height: 50px;
 }
 
 .first img {
+  float: left;
+  line-height: 100px;
   width: 100px;
   height: 50px;
 }
