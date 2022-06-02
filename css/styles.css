@@ -45,4 +45,8 @@ h2 {
   float: right;
   width: 30%;
   background-color: orange;
+  border: 5px solid black;
+  padding: 5px;
+  margin: 30px;
+  box-sizing: border-box;
 }
