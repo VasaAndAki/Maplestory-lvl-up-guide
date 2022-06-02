@@ -1,0 +1,39 @@
+.first {
+  color: green;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+.first img {
+  width: 100px;
+  height: 50px;
+}
+
+.second {
+  color: red;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+.third {
+  color: blue;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+.fourth {
+  color: gold;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+.lvl-range {
+  font-weight: bolder;
+  color: black;
+  font-size: 24px;
+  font-family: cursive;
+}
+
+h2 {
+  color: orange;
+}
